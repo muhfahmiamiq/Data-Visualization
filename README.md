@@ -12,9 +12,9 @@ This notebook contains homework on customer behavior and profiles in Telco compa
 - high: Users with tenure > 40 months.
 Make a graph showing the number of customers based on this grouping!
 
-4. Do many senior citizens use telephone services?
+3. Do many senior citizens use telephone services?
 
-5. What is the distribution of total costs?
+4. What is the distribution of total costs?
 
 ## Intermediate Questions
 
