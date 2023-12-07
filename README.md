@@ -7,14 +7,14 @@ This notebook contains homework on customer behavior and profiles in Telco compa
 1. Make a graph that contains information on average monthly costs based on payment method! Then write down your interpretation of the graph.
 
 2. If the subscription period (tenure) is grouped as follows:
-● low: Users with tenure < 21 months
-● medium: Users with tenure 21 - 40 months
-● high: Users with tenure > 40 months.
+   a. low: Users with tenure < 21 months
+   b. medium: Users with tenure 21 - 40 months
+   c. high: Users with tenure > 40 months.
 Make a graph showing the number of customers based on this grouping!
 
-3. Do many senior citizens use telephone services?
+4. Do many senior citizens use telephone services?
 
-4. What is the distribution of total costs?
+5. What is the distribution of total costs?
 
 ## Intermediate Questions
 
